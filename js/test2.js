@@ -19,7 +19,8 @@ console.log('2 commit10')
 //2 commit 11
 console.log('2 commit11')
 
-//2 commit 12
-console.log('2 commit121')
 //2 commit 13
 console.log('2 commit13')
+console.log('2 commit12')
+//1 change something
+console.log('1 change something')
