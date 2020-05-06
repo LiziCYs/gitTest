@@ -6,3 +6,12 @@ console.log('2 commit')
 
 //2 commit 2
 console.log('2 commit 2')
+
+//2 commit 3
+console.log('2 commit 3')
+
+//2 commit 4 
+console.log('2 commit 4')
+
+//1 commit 3
+console.log('1 commit 3')
